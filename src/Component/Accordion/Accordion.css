@@ -1,0 +1,18 @@
+.accordion-container {
+  padding: 8px;
+  width: 40%;
+  margin: 10px auto;
+  border: 1px solid;
+}
+
+.accordion-header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.2rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.accordion-item {
+  font-size: 1.1rem;
+}
